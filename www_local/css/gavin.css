@@ -1,0 +1,34 @@
+html{
+	height:100%;
+	margin:0px;
+	padding:0px;
+	width:100%;
+}
+
+.timer_bar{
+	background-color: red;
+	border-bottom:1px solid black;
+	width:100%;
+	padding: 5px;
+}
+
+.timer_input{
+	width: 60px;
+	display: inline;
+	height: 30px;
+	text-align: center;
+}
+.timer_input_form{
+	margin-top: 20px;
+}
+.timer_input_form button{
+	height: 36px;
+}
+
+
+#new_timer_button{
+	margin: 0px auto;
+	display: inherit;
+	width: 50%;
+	height: 50px;
+}
